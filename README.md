@@ -3,11 +3,16 @@
 <table>
 <tr>
 <td>1</td>
-<td>Spread sheet project</td>
+<td>Airbnb Analyst</td>
 </tr>  
 <tr>
 <td>2</td>
-<td>SQL Project</td>
+<td>E-Commerce Project</td>
 </tr>  
+<td>2</td>
+<td>Return Rate Tablea Project</td>
+<tr>
+<td>2</td>
+<td>Tableau Project</td>
 </table>
 
