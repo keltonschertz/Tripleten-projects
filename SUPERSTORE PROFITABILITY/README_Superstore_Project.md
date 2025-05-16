@@ -56,6 +56,7 @@ You have been hired as a consultant to analyze the operations of the Superstore 
 - Worksheets and dashboards to support each of the analyses.
 - A clean and professional presentation summarizing key insights and recommendations.
 - Recommendations for cost-cutting and revenue-increasing strategies based on the findings.
+- <a href="https://public.tableau.com/views/Project4_1edited/ScatterPlot?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link}"> Tableau link</a>
 
 ---
 
