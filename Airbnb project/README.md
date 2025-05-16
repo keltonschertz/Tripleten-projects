@@ -6,8 +6,6 @@ This project provides data-driven insights into the Manhattan vacation rental ma
 
 ---
 
-## 📌 Objectives
-We aim to answer two main business questions:
 
 ### 1. Which neighborhoods and property sizes are most attractive for vacation rentals?
 - Identify the top 10 neighborhoods in Manhattan based on recent guest activity.
@@ -70,6 +68,7 @@ We aim to answer two main business questions:
   - Filter: `top_listing = 1`
   - Values: `revenue_earned`
   - Sorted to display top listings by estimated annual revenue.
+  - <a href="https://docs.google.com/spreadsheets/d/1aYtw-WM9Vil22JfNS7Y0fbX4CCUKeBmGqph6jvNbQv4/edit?usp=sharing"> Tableau Link</a>
 
 ---
 
@@ -89,5 +88,3 @@ Based on this analysis, investors should focus on:
 
 ---
 
-## 📧 Contact
-For questions or further insights, please reach out to the data team at: `yourname@yourdomain.com`
